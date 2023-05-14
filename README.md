@@ -1,3 +1,6 @@
+Hosting on Netlify
+https://word-frequency-045187.netlify.app/
+
 Word Frequency Histogram
 This is a simple React application that fetches a text file from a given URL, counts the frequency of each word in the text, and displays a bar chart of the top 20 most frequently occurring words. The application also allows the user to export the data in CSV format.
 
